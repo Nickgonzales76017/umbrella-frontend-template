@@ -1,0 +1,21 @@
+{
+    "name": "nextjs-node-16",
+    "version": "1.0.0",
+    "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "author": "",
+    "license": "",
+    "dependencies": {
+        "@nextui-org/react": "^1.0.0-beta.9",
+        "next": "^12.0.10",
+        "prop-types": "^15.8.1",
+        "react": "^18.2.0",
+        "react-lottie": "^1.2.3"
+    }
+}
